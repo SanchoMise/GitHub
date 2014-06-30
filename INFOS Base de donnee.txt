@@ -1,0 +1,11 @@
+Création d'une base de données MySQL
+
+Les informations relatives à votre base de données MySQL sont indiquées ci-dessous.
+
+Nom de la base de données :	db530184467
+Nom du serveur de la base de données :	db530184467.db.1and1.com
+Port :	3306
+Nom d'utilisateur :	dbo530184467
+Description :	PRiSM
+Version :	MySQL5
+Etat :	 configuration initiée

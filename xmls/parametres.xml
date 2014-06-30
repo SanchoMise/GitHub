@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>  
+<parametres> 
+    <TESTS>1</TESTS>
+	
+    <SERVEURSOCKET>
+    	<IP>127.0.0.1</IP>
+    	<PORT>6100</PORT>
+    </SERVEURSOCKET>
+	
+    <SERVEURWEB>http://bertrandsandrez.com/PRiSM/</SERVEURWEB>
+    <NBCAMERAS>8</NBCAMERAS>
+
+    
+
+    
+</parametres> 
